@@ -1,0 +1,8 @@
+name: FangsSpawner
+main: io.github.leonardosnt.fangsspawner.FangsSpawner
+version: 1.0.0
+author: leonardosnt
+commands:
+  spawnfangs:
+    permission: fangsspawner.use
+    usage: Use /<command> [amount=10]
